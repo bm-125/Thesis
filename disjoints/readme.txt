@@ -1,0 +1,8 @@
+Finding the disjoint contradictions is based on the Disjointness Violations in Wikidata paper. All files access in 23 and 24 of june 2025.
+Files:
+1. disjoint_subclasses.py: uses the Wikidata SPARQL endpoint to retrieve the subclasses that are pairwise disjoint (determined from the "disjoint union of" property) using the query in the paper and stores the disjoint pairs and the original class in a disjoint_pairs.csv file. The code finds 7209 disjoint pairs.
+
+2. disjoint_contradictions.py: also uses the Wikidata SPARQL endpoint to find subclasses that are subclasses of both members of a disjoint pair, thus finding disjoint axiom contradictions stored in the disjoint_contradictions.csv. The code, as of june 2025, finds 2701 contradictions.
+
+3. wikidata_disjoint.py and wiki_clean.py: The first code reads the disjoint_contradictions.csv file and replaces the Wikidata identifiers with their english labels. Each contradiction is saved in two different txt files, one that only contains the subclassOf statements (e.g. kaon subClassOf hadron, kaon subClassOf elementary particle) and one containing the full contradiction (e.g. kaon subClassOf hadron, kaon subClassOf elementary particle, hadron disjointWith elementary particle)
+If any of the entities do not have an english label, the row is removed in the second code, resulting in the two final files: contradictions_full_statements_labels.txt and contradictions_subclass_only_labels.txt.
