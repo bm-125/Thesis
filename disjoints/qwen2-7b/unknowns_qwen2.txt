@@ -1,0 +1,39 @@
+Unknown cases found:
+180,Dean of the National Assembly of Quebec subClassOf Father of the House,Dean of the National Assembly of Quebec subClassOf word,used to describe the longest-serving member of the assembly
+302,President of New York University subClassOf chancellor,President of New York University subClassOf word,used to describe a leader of a university
+566,honorary citizen of Kopřivnice subClassOf honorary citizenship,honorary citizen of Kopřivnice subClassOf word,used to describe a person who has been given an honor by a town
+609,blow book subClassOf abstract object,blow book subClassOf concrete object,
+930,Monopoly €100 bill subClassOf abstract object,Monopoly €100 bill subClassOf concrete object,
+940,biological child of adoptive mother and father subClassOf biological child of adoptive father,biological child of adoptive mother and father subClassOf biological child of adoptive mother,
+971,unsewn binding subClassOf abstract object,unsewn binding subClassOf concrete object,
+975,honorary citizen of Františkovy Lázně subClassOf honorary citizenship,honorary citizen of Františkovy Lázně subClassOf word,used to describe a person who has been given an honor by a city
+1083,thick book subClassOf abstract object,thick book subClassOf concrete object,
+1324,Potamoi subClassOf abstract object,Potamoi subClassOf concrete object,
+1333,Monopoly €50 bill subClassOf abstract object,Monopoly €50 bill subClassOf concrete object,
+1388,soft hardcover subClassOf abstract object,soft hardcover subClassOf concrete object,
+1432,one-shot subClassOf abstract object,one-shot subClassOf concrete object,
+1706,fig leaf subClassOf abstract object,fig leaf subClassOf concrete object,
+1731,softcover subClassOf abstract object,softcover subClassOf concrete object,
+1790,copy of the Qur’an subClassOf abstract object,copy of the Qur’an subClassOf concrete object,
+1998,Bishop of St Andrews,"Dunkeld and Dunblane subClassOf bishop, Bishop of St Andrews, Dunkeld and Dunblane subClassOf phrase",", Bishop of St Andrews is a title in the Church of Scotland, Dunkeld and Dunblane are cities in Scotland."
+2412,Reclining Buddha subClassOf abstract object,Reclining Buddha subClassOf concrete object,
+2498,Kasshi-tō subClassOf abstract object,Kasshi-tō subClassOf concrete object,
+2621,President of University of València subClassOf rector,President of University of València subClassOf phrase,(not necessarily refers to a real thing)
+2670,honorary citizen of Smarhoń subClassOf honorary citizenship,honorary citizen of Smarhoń subClassOf word,used to describe a person who has been given a title of honor by a city
+2671,nenjibutsu subClassOf abstract object,nenjibutsu subClassOf concrete object,
+2945,Buddhist statue in Kōfuku-ji subClassOf abstract object,Buddhist statue in Kōfuku-ji subClassOf concrete object,
+2949,honorar citizen of Trondheim subClassOf honorary citizenship,honorar citizen of Trondheim subClassOf phrase,meaning 'honorary citizen' of Trondheim
+3036,Chota Nagpur States subClassOf princely state,Chota Nagpur States subClassOf state,of India
+3083,chromosomal daughter subClassOf genetic daughter,chromosomal daughter subClassOf chromosomal child,
+3095,honorary citizen of Stuttgart subClassOf honorary citizenship,honorary citizen of Stuttgart subClassOf word,used for a person granted an honor by a city
+3115,honorary citizen of Yekaterinburg subClassOf honorary citizenship,honorary citizen of Yekaterinburg subClassOf word,used for a person granted an honor by a city
+3119,Bishop of the Isles subClassOf Catholic bishop,Bishop of the Isles subClassOf word,used to describe a non Christian religious leader
+3425,Buddharupa subClassOf abstract object,Buddharupa subClassOf concrete object,
+3500,Professor emeritus of Cambridge University subClassOf Ehrenprofessur,Professor emeritus of Cambridge University subClassOf word,used to describe a professor who has retired from teaching but is still affiliated with a university
+3766,viking ship replica subClassOf abstract object,viking ship replica subClassOf concrete object,
+3846,royal consort of Castile subClassOf queen consort,royal consort of Castile subClassOf husband,of Queen of Castile
+3851,Consularis subClassOf title of honor,Consularis subClassOf word,for a person who serves as an agent of a state in another country
+3959,Anglican Bishop of Bunbury subClassOf diocesan bishop,Anglican Bishop of Bunbury subClassOf word,used to describe a person who is not religious
+3964,slur subClassOf word or phrase,slur subClassOf meaning,fully hurtful word or phrase
+4237,doctor honoris causa of Keiō University subClassOf honorary doctorate,doctor honoris causa of Keiō University subClassOf phrase,"meaning ""doctor degree given by Keiō University"""
+4369,service ribbon subClassOf abstract object,service ribbon subClassOf concrete object,

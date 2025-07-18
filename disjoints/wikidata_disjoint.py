@@ -4,7 +4,7 @@ import urllib.error
 import time
 
 # Load the contradiction data
-df = pd.read_csv("disjoint_contradictions.csv")
+df = pd.read_csv("valid_subclass_pairs.csv")
 
 # Extract all unique Q-IDs (URIs)
 all_entities = set(df["violating_subclass"]) | set(df["disjoint_entity1"]) | set(df["disjoint_entity2"])
@@ -70,14 +70,14 @@ for _, row in df.iterrows():
     subclass_only_lines.append(subclass_line)
 
 # Save to plain .txt files (no quotes, no headers)
-with open("contradictions_full_statements_labels.txt", "w", encoding="utf-8") as f:
+with open("no_contradictions_full_statements_labels.txt", "w", encoding="utf-8") as f:
     for line in full_lines:
         f.write(line + "\n")
 
-with open("contradictions_subclass_only_labels.txt", "w", encoding="utf-8") as f:
+with open("no_contradictions_subclass_only_labels.txt", "w", encoding="utf-8") as f:
     for line in subclass_only_lines:
         f.write(line + "\n")
 
 print("📁 Files written:")
-print(" - contradictions_full_statements_labels.txt")
-print(" - contradictions_subclass_only_labels.txt")
+print(" - no_contradictions_full_statements_labels.txt")
+print(" - no_contradictions_subclass_only_labels.txt")

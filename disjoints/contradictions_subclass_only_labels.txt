@@ -7,7 +7,6 @@ K0 short subClassOf hadron, K0 short subClassOf elementary particle
 facesitting subClassOf anilingus, facesitting subClassOf cunnilingus
 dividend stripping subClassOf tax avoidance, dividend stripping subClassOf tax evasion
 individual copy of a print subClassOf abstract object, individual copy of a print subClassOf concrete object
-individual copy of a work subClassOf abstract object, individual copy of a work subClassOf concrete object
 duplicate original subClassOf abstract object, duplicate original subClassOf concrete object
 individual copy of a video artwork subClassOf abstract object, individual copy of a video artwork subClassOf concrete object
 individual copy of an audio work subClassOf abstract object, individual copy of an audio work subClassOf concrete object

@@ -5,8 +5,8 @@ qid_pattern = re.compile(r'\bQ\d+\b')
 
 # Files to process
 files = [
-    "contradictions_full_statements_labels.txt",
-    "contradictions_subclass_only_labels.txt"
+    "no_contradictions_full_statements_labels.txt",
+    "no_contradictions_subclass_only_labels.txt"
 ]
 
 for filename in files:

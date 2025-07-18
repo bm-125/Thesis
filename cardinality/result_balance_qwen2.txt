@@ -1,0 +1,8 @@
+Accuracy: 0.4894957983193277
+Precision: 0.4876237623762376
+Recall: 0.41386554621848737
+F1 Score: 0.44772727272727275
+Confusion Matrix:
+ [[269 207]
+ [279 197]]
+Python script finished
