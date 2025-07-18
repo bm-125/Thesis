@@ -1,3 +1,5 @@
+**Master Thesis: Discord, Conflict and Contradiction in AI: A benchmark for learning with contradictory facts**
+
 Code to detect contradictions and leverage them to build datasets to test wheter language models can distinguish between two contradictory and non-contradictory pairs of statements. This work was based on two datasets: Wikidata and a Gene Ontology based dataset. The work done on Wikidata is stored in master.
 
 reasoner.py: code that merges the original GO KG (November 2024 version) with PPIs from STRING into a .owl file. 
