@@ -1,0 +1,1 @@
+Code for detecting disjoint axiom and cardinality constrained contradictions using the Wikidata Query endpoint alongside creating datasets based on said contradictions, enriching them with non-contradictory statements and using them with LMs to determine whether they can distinguish between contradictory and non-contradictory pairs of statements.
