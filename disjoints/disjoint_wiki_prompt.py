@@ -2,7 +2,7 @@ import csv
 import genai
 
 # Replace with your actual Gemini API key
-API_KEY = "AIzaSyDgrSB0HY5kzvNHY0akyZY7j-j5UWXcmVs"
+API_KEY = "KEY_HERE"
 
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
